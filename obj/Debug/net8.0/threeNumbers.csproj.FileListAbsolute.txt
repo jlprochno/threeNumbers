@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\bin\Debug\net8.0\threeNumbers.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\bin\Debug\net8.0\threeNumbers.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\bin\Debug\net8.0\threeNumbers.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\bin\Debug\net8.0\threeNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\bin\Debug\net8.0\threeNumbers.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\refint\threeNumbers.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\threeNumbers.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\threeNumbers\obj\Debug\net8.0\ref\threeNumbers.dll
